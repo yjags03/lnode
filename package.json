@@ -1,0 +1,10 @@
+{
+  "name": "lnode",
+  "version": "0.0.0",
+  "description": "lnode",
+  "main": "app.js",
+  "author": {
+    "name": "yaram",
+    "email": ""
+  }
+}
